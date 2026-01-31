@@ -1,2 +1,4 @@
-# Aplikasi-WEB
-Ini adalah beberapa aplikasi yang saya buat berbasis website , semoga bermanfaat
+List of available applications
+1.
+2.
+3.
